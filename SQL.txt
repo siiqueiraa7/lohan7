@@ -1,0 +1,3 @@
+create table usuario{
+  nome nvarchar(100)
+}
